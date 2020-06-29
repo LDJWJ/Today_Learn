@@ -26,3 +26,7 @@
 
 ### 기타 
  - 추후 보강 예정.
+
+
+### 내용
+- 06/29 [today_learn](https://github.com/LDJWJ/Today_Learn/blob/master/202006_29_class_memo.txt)
