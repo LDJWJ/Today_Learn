@@ -1,0 +1,5 @@
+My_GitHub 오늘의 todo
+- 수업 준비 
+- HIVE cmd 확인
+- 프로젝트
+- 컴퓨터 상태 확인
