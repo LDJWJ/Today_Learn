@@ -1,0 +1,6 @@
+--- 0701  todo
+(1) 수업 준비 및 실습 확인
+ - Mongodb 설치 및 실습
+ - 자료 확인
+(2) aichallenge 자료 정리
+(3) kaggle 대회 살펴보기
