@@ -2,6 +2,7 @@
 - matplotlib
 - pandas
 
-오늘의 목표나 todo
-- 스터디 참여
-- 노트북 살펴보기
+오늘의 todo
+
+
+...
