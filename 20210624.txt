@@ -1,8 +1,0 @@
-오늘의 내용
-- matplotlib
-- pandas
-
-오늘의 todo
-
-
-...
