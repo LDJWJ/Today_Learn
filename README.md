@@ -25,7 +25,6 @@ https://ldjwj.github.io/Today_Learn/
 
 ## Today I Learned
 
-- [[python] 파이썬 알못의 단어 빈도수 분석 과정 (1)](https://velog.io/@cyanred9/python-%EB%8B%A8%EC%96%B4-%EB%B9%88%EB%8F%84%EC%88%98-%EB%B6%84%EC%84%9D-%EC%82%BD%EC%A7%88-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 - [[파이썬 라이브러리] 1일차()
 - [[파이썬 라이브러리] 2일차()
 - [[파이썬 라이브러리] 3일차()
