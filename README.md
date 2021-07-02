@@ -25,8 +25,8 @@ https://ldjwj.github.io/Today_Learn/
 
 ## Today I Learned
 
-- [[파이썬 라이브러리] [06/24](./20210624.txt)
-- [[파이썬 라이브러리] [06/25](./20210625.txt)
+- [[파이썬 라이브러리] [06/24](https://ldjwj.github.io/Today_Learn/20210624.txt)
+- [[파이썬 라이브러리] [06/25](https://ldjwj.github.io/Today_Learn/20210625.txt)
 - [[파이썬 라이브러리] 3일차()
 - [[파이썬 라이브러리] 4일차()
 
