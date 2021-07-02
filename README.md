@@ -1,5 +1,5 @@
 ```markdown
-print("공부한 기록 / 프로젝트 목록") 
+print("오늘의 todo list / 하루의 흔적") 
 ```
 
 ## Today I Learned
