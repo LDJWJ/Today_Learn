@@ -1,15 +1,16 @@
 - 오늘의 팀별 목표 및 todo 
    - 팀장 방에 간단하게 작성하여 올리기
    
-- 오늘의 팀별 진행 현황(13:05~) 1,2분
+- 오늘의 팀별 진행 현황(15:05~) 1, 2분
 
 ##### todo #####
 - 수업 준비
-- 과제 확인
+- 과제 확인(수요일)
+https://docs.google.com/spreadsheets/d/1W0VSxGMdj5MypceJ0guItha1IdW_Y-2YmEfRM-O-gRw/edit?usp=sharing
 
 - 개별 면담 진행(3교시, 5교시) - 1인(5-10분)
    - 수업 이해도, 진도
    - 기타
    
-- 피드백 정리
-- 데이터 확인
+- 피드백 정리 ok
+- 데이터 확인 ok
